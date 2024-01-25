@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fork_part.obj-3e033526b163ea285b3603c16189b177.mesh"
+
+[deps]
+
+files=[ "res://.import/fork_part.obj-3e033526b163ea285b3603c16189b177.mesh" ]
+
+source_file="res://scenes/meshes/vehicles/fork_part.obj"
+dest_files=[ "res://.import/fork_part.obj-3e033526b163ea285b3603c16189b177.mesh", "res://.import/fork_part.obj-3e033526b163ea285b3603c16189b177.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
